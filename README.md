@@ -1,2 +1,5 @@
-# CSCI-1250
-Intro To Computer Science I
+# Introduction
+  This repository has my completed projects in Intro To Computer Science I.
+  
+## Language
+  Java
