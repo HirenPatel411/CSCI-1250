@@ -1,6 +1,6 @@
 //Name:		Dr. Gene Bailey
 //Class:	CSCI 1250-003
-//Lab:		Project 4 - extension file
+//Lab:		Project 1 - extension file
 //Date:		4-8-2016
 //Purpose:	Extension file of Project 1 for use of methods within class
 
