@@ -1,5 +1,5 @@
 # Introduction
-  This repository has my completed projects in Intro To Computer Science I.
+  This repository has my completed projects from Intro To Computer Science I.
   
 ## Language
   Java
