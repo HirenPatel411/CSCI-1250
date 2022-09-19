@@ -2,7 +2,7 @@
 //Class:	CSCI 1250-003
 //Lab:		Project 4 - extension file
 //Date:		4-8-2016
-//Purpose:	Extension file of Project 4 for use of methods within class
+//Purpose:	Extension file of Project 1 for use of methods within class
 
 import java.util.Scanner;
 
