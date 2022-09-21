@@ -3,7 +3,7 @@
  * File name: UserInput
  * Project name: USTrivia
  * ---------------------------------------------------------------------------
- * Creator's name and email: Adam Wells, wellsay@etsu.edu
+ * Creator's name and email: Hiren Patel, patelhm@etsu.edu
  * Course: CSCI-1250-090
  * Creation Date: 7/30/19
  * ---------------------------------------------------------------------------
